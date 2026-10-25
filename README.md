@@ -1,2 +1,2 @@
-# Python-Moodle-Excercises
+# PPD-Moodle-Excercises
 Moodle Programs
